@@ -1,7 +1,6 @@
 <hr><strong>
 This repo is going to be archived soon because I cannot maintain it anymore.
-If you want to be the new 'official' owner/maintainer of this library, please create a fork and let me know via an issue.
-I'll put a link to your fork in this README.
+If you want to be the new 'official' owner/maintainer of this library, please create a fork and let me know via <a href="https://github.com/svdo/swift-SelfSignedCert/issues/17">this issue</a>.
 </strong><hr>
 
 # SelfSignedCert
